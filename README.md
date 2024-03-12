@@ -2,11 +2,11 @@
 MNIST Handwritten Digit Classifier using Artificial Neural Network
 
 ### requirements:
-numpy
-pandas
-scipy
-torch
-torchvision
-torchsummary
-matplotlib
+numpy  
+pandas  
+scipy  
+torch  
+torchvision  
+torchsummary  
+matplotlib  
 
